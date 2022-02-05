@@ -33,10 +33,77 @@ For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) sect
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Class participation and leading class {{< br >}}{{< br >}} _Each student will lead one class with a summary of the key issues and questions prepared in advance for everyone to consider._ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 25% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Five (5) forum posts {{< br >}}{{< br >}} _Students will be asked to write five weekly short papers of approximately 1–2 pages responding to the readings._ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 25% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} One (1) 10-page analysis of a primary source {{< br >}}{{< br >}} _Students will write one 10-page analysis of a primary source that will examine the questions it addresses, the scholarship that has been written about it, and the students’ own close analysis of the text itself._ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 50% {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class participation and leading class
+
+_Each student will lead one class with a summary of the key issues and questions prepared in advance for everyone to consider._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+25%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Five (5) forum posts
+
+_Students will be asked to write five weekly short papers of approximately 1–2 pages responding to the readings._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+25%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+One (1) 10-page analysis of a primary source
+
+_Students will write one 10-page analysis of a primary source that will examine the questions it addresses, the scholarship that has been written about it, and the students’ own close analysis of the text itself._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+50%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For more information, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
