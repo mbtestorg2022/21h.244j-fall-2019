@@ -26,7 +26,7 @@ Shragin, Boris, and Albert Todd, eds. _Landmarks: A Collection of Essays on the 
 
 Solovyev, Vladimir. _Lectures on Godmanhood_. Dennis Dobson, 1948. ISBN: 9780234770474. 
 
-— — —. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Russia and the Universal Church_ (PDF)](http://www.byzantinecatholic.org/wp-content/uploads/2015/04/Solovyev-Russia_Universal_Church1.pdf). Translated by Herbert Rees. Centenary Press, 1948.
+— — —. [_Russia and the Universal Church_ (PDF)](http://www.byzantinecatholic.org/wp-content/uploads/2015/04/Solovyev-Russia_Universal_Church1.pdf). Translated by Herbert Rees. Centenary Press, 1948.
 
 Stepniak, S. _[The Career of a Nihilist: A Novel](https://www.google.com/books/edition/The_Career_of_a_Nihilist/wOJKAAAAMAAJ?hl=en&gbpv=1)_. Walter Scott, 1889. _(The pseudonym of S.M. Kravchinskiĭ.)_
 

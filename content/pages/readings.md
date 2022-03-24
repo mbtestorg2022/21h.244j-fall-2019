@@ -731,7 +731,7 @@ The February Revolution of 1917
 
 \[K\] Chapter Nine: Clash and Collapse of Empires: 1914–1921, pp. 266–75.
 
-Kolonitskii, Boris. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The ‘Russian Idea’ and Ideology in the February Revolution.” (PDF)](http://src-h.slav.hokudai.ac.jp/sympo/94summer/chapter3.pdf)
+Kolonitskii, Boris. [“The ‘Russian Idea’ and Ideology in the February Revolution.” (PDF)](http://src-h.slav.hokudai.ac.jp/sympo/94summer/chapter3.pdf)
 
 _I recommend you start on the last paragraph of p. 43 where Kolonitskii talks about the "complex" phenomenon of the February Revolution. You don't need his initial thoughts on “The Russian Idea.”_
 
